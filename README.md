@@ -6,3 +6,5 @@ This repository contains information related to chromium developement.
 -  Check commit hash part of which chromium release.
    - https://omahaproxy.appspot.com/ OR
    - git find-releases commit_hash
+
+- [How Browser works ? ](https://developer.chrome.com/blog/inside-browser-part1/)

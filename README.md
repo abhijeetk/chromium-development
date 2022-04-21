@@ -8,3 +8,6 @@ This repository contains information related to chromium developement.
    - git find-releases commit_hash
 
 - [How Browser works ? ](https://developer.chrome.com/blog/inside-browser-part1/)
+- Running test on android
+`out/android_release/bin/run_components_unittests --avd-config tools/android/avd/proto/generic_android30.textpb  --emulator-window -f "StarterFencedFrameTest.*" -v`
+
